@@ -1890,11 +1890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RaffyLogronio\\Desktop\\devs\\portfolio\\dotnet\\application_db_sample\\learningapp\\learningapp.csproj",
+      "projectUniqueName": "C:\\Users\\RaffyLogronio\\Desktop\\devs\\portfolio\\dotnet\\dotnet_webapp_db_sample\\learningapp\\learningapp.csproj",
       "projectName": "learningapp",
-      "projectPath": "C:\\Users\\RaffyLogronio\\Desktop\\devs\\portfolio\\dotnet\\application_db_sample\\learningapp\\learningapp.csproj",
+      "projectPath": "C:\\Users\\RaffyLogronio\\Desktop\\devs\\portfolio\\dotnet\\dotnet_webapp_db_sample\\learningapp\\learningapp.csproj",
       "packagesPath": "C:\\Users\\RaffyLogronio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RaffyLogronio\\Desktop\\devs\\portfolio\\dotnet\\application_db_sample\\learningapp\\obj\\",
+      "outputPath": "C:\\Users\\RaffyLogronio\\Desktop\\devs\\portfolio\\dotnet\\dotnet_webapp_db_sample\\learningapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RaffyLogronio\\AppData\\Roaming\\NuGet\\NuGet.Config"
